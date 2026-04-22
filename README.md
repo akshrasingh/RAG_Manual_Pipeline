@@ -38,7 +38,7 @@ PDF → Text → Chunking → Embeddings → FAISS → Retrieval → Prompt → 
 ### 🔹 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/akshrasingh/RAG_Manual_Pipeline.git
 
 ```
 
