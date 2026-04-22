@@ -71,7 +71,7 @@ ollama run llama3
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run pdf_rag.py
 ```
 
 ---
